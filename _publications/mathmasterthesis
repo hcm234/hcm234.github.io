@@ -2,11 +2,12 @@
 title: "Math Master Thesis"
 collection: publications
 permalink: /publication/mat
-excerpt: 'My master thesis was about an open problem in the classification of surfaces of general type. My master thesis was about an open problem in the classification of surfaces of general type. In particular, studied the classification of surfaces of general type with $$ K^2 \leq 6$$ and $$p_g=4$$. Using Miles Reid graded ring methods, it provided some insights about the connectedness of the moduli space of such surfaces.'
-date: 2023-02-10
-venue: 'Repositorio UNAM'
-paperurl: 'http://hcm234.github.io/files/tesismaestriamate.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Math thesis'
+date: 2015-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
