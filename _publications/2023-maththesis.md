@@ -1,7 +1,7 @@
 ---
 title: "Math Master Thesis"
 collection: publications
-permalink: /publication/2023-maththesis
+permalink: /publication/2023-maththesis.md
 excerpt: 'My master thesis was about an open problem in the classification of surfaces of general type. In particular, I studied the classification of surfaces of general type with $$K^2 \leq 6$$ and $$p_g=4$$. Using Miles Reid graded ring methods, it provided some insights about the connectedness of the moduli space of such surfaces.'
 date: 2023-02-10
 venue: 'Repositorio UNAM'
