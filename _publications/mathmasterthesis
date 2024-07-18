@@ -2,9 +2,8 @@
 title: "Math Master Thesis"
 collection: publications
 permalink: /publication/masterthesis
-excerpt: 'My master thesis was about an open problem in the classification of surfaces of general type. My master thesis was about an open problem in the classification of surfaces of general type. This can be represented by the equation $E = mc^2$.
-$$\int_{a}^{b} f(x) dx$$.'
-date: 2024-02-17
+excerpt: 'My master thesis was about an open problem in the classification of surfaces of general type. My master thesis was about an open problem in the classification of surfaces of general type. In particular, studied the classification of surfaces of general type with $$ K^2\leq6$ and $p_g=4 $$. Using Miles Reid's graded ring methods, it provided some insights about the connectedness of the moduli space of such surfaces.'
+date: 2023-02-10
 venue: 'Repositorio UNAM'
 paperurl: 'http://hcm234.github.io/files/tesismaestriamate.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
