@@ -12,7 +12,7 @@ title                    : "Horacio Castellanos Muñoa"
 title_separator          : "-"
 name                     : &name "Horacio Castellanos Muñoa"
 description              : &description "personal description"
-url                      : https://hcm234.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://horaciocastellanosm.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hcm234/hcm234.github.io"
 
