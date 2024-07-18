@@ -12,5 +12,5 @@ I am a PhD student in Mathematics at the Instituto de Matemáticas, UNAM, under 
 
 I am also currently pursuing a master's degree in Economics from the University of Montevideo.
 
-As the reader has probably already inferred, my main interest is algebraic geometry. However, I am also interested in algebraic topology, statistics-econometrics, and economic theory. I am always open to helping undergraduate students. If you are an undergraduate student and interested in doing your thesis with me, feel free to send me an email
+As the reader has probably already inferred, my main interest is algebraic geometry. However, I am also interested in algebraic topology, statistics-econometrics, and economic theory. I am always open to helping undergraduate students. If you are an undergraduate student and interested in doing your thesis with me, feel free to send me an email.
 
