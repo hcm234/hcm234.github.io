@@ -2,7 +2,7 @@
 title: "Notes"
 collection: portfolio
 ---
-sjssss
+Click here to see the material
 
 ## Notes on the Van-Kampen theorem using grupoids.
 
